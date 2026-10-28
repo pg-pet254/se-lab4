@@ -2,5 +2,3 @@ GT4500,1,0,1,0
 TORPEDO,SINGLE  
 TORPEDO,SINGLE #mindkettő tárból lőnie kellett mostanra
 TORPEDO,SINGLE #mostanra ki kellett fogynia, fail kell
-GT4500,1,1,1,1
-TORPEDO,SINGLE
